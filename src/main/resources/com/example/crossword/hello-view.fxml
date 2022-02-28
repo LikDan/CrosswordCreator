@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.crossword.HelloController" spacing="20">
+
+    <HBox spacing="20">
+        <AnchorPane fx:id="anchorPane"/>
+        <VBox fx:id="vbox"/>
+    </HBox>
+
+    <VBox fx:id="answerLayout" visible="false">
+        <TextField fx:id="answerField"/>
+        <HBox>
+            <Button fx:id="confirmAnswerButton" text="Confirm answer"/>
+            <Button fx:id="showAnswerButton" text="Show answer"/>
+        </HBox>
+    </VBox>
+
+    <VBox>
+        <Button fx:id="showAnswers" text="Show answers"/>
+        <Button fx:id="clearButton" text="Clear"/>
+        <Button fx:id="githubButton" text="GitHub"/>
+    </VBox>
+
+</VBox>

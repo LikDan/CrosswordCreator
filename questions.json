@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Система, процесс, компьютер, владеющие каким-либо вычислительным ресурсом",
+    "answer": "Сервер",
+    "orientation": "VERTICAL",
+    "startPosX": 11,
+    "startPosY": 0
+  },
+  {
+    "question": "Сколько пользователей может работать с распределенной БД",
+    "answer": "Множества",
+    "orientation": "HORIZONTAL",
+    "startPosX": 7,
+    "startPosY": 1
+  },
+  {
+    "question": "Как называется БД набор отношений в которой хранятся в разных узлах компьютерной сети и логически связанных таким образом, чтобы составлять единую совокупность данных",
+    "answer": "Распределенная",
+    "orientation": "VERTICAL",
+    "startPosX": 7,
+    "startPosY": 3
+  },
+  {
+    "question": "Механизм, позволяющий обеспечить целостность БД когда он используется несколькими пользователями",
+    "answer": "Синхронизация",
+    "orientation": "VERTICAL",
+    "startPosX": 16,
+    "startPosY": 3
+  },
+  {
+    "question": "Вид расположения когда пользователь ничего не знает о размещении данных в узлах информационной системы",
+    "answer": "Прозрачное",
+    "orientation": "HORIZONTAL",
+    "startPosX": 2,
+    "startPosY": 4
+  },
+  {
+    "question": "Как называется свойство которое означает, что в качестве узлов распределенной системы могут выступать компьютеры любых моделей и производителей, на любой ОС",
+    "answer": "Независимость",
+    "orientation": "VERTICAL",
+    "startPosX": 12,
+    "startPosY": 7
+  },
+  {
+    "question": "Интеграция данных и методов их обработки в одно целое",
+    "answer": "Объект",
+    "orientation": "HORIZONTAL",
+    "startPosX": 4,
+    "startPosY": 8
+  },
+  {
+    "question": "Свойство при котором выборка данных может осуществляться из всей базы данных, в том числе из данных, расположенных на других узлах сети",
+    "answer": "Глобальность",
+    "orientation": "VERTICAL",
+    "startPosX": 4,
+    "startPosY": 10
+  },
+  {
+    "question": "Копия БД, размещенную на другом компьютере сети для автономной работы пользователей",
+    "answer": "Реплика",
+    "orientation": "HORIZONTAL",
+    "startPosX": 6,
+    "startPosY": 10
+  },
+  {
+    "question": "2 по популярности NoSQL СУБД",
+    "answer": "RediS",
+    "orientation": "VERTICAL",
+    "startPosX": 19,
+    "startPosY": 11
+  },
+  {
+    "question": "Самая популярная СУБД",
+    "answer": "MySQL",
+    "orientation": "VERTICAL",
+    "startPosX": 21,
+    "startPosY": 11
+  },
+  {
+    "question": "Одна из технологии распределенной обработки данных",
+    "answer": "Реплицирование",
+    "orientation": "HORIZONTAL",
+    "startPosX": 6,
+    "startPosY": 12
+  },
+  {
+    "question": "Вид автономии когда пользователь может получить доступ к БД без подключения к интернету (БД хранится на ПК пользователя)",
+    "answer": "Локальная",
+    "orientation": "HORIZONTAL",
+    "startPosX": 1,
+    "startPosY": 14
+  },
+  {
+    "question": "На каком языке формулируются запросы к БД",
+    "answer": "SQL",
+    "orientation": "HORIZONTAL",
+    "startPosX": 19,
+    "startPosY": 15
+  },
+  {
+    "question": "Любая система, процесс, компьютер, пользователь, делающая запрос к серверу на использование ресурса",
+    "answer": "Клиент",
+    "orientation": "HORIZONTAL",
+    "startPosX": 0,
+    "startPosY": 17
+  }
+]
